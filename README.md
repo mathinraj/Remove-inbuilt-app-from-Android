@@ -9,7 +9,7 @@ This tutorial is now divided into three parts:
                           3. Removal of system apps
                           
                           
-##1. Prerequisites in Mobile Phone:
+## 1. Prerequisites in Mobile Phone:
 
  Step 1 : Enable the "developer options" in your android mobile. (Refer google for your current device model )
  
