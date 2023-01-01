@@ -1,0 +1,23 @@
+run cmd in this address bar
+
+C:\Users\kavin\Desktop\debloater>adb devices
+
+List of devices attached
+8eb8cab90408    unauthorized
+
+
+C:\Users\kavin\Desktop\debloater>adb devices
+
+List of devices attached
+8eb8cab90408    device
+
+
+C:\Users\kavin\Desktop\debloater>adb shell
+
+merlin:/ $ pm uninstall -k --user 0 com.alltools.smarttoolsapp
+Success
+
+merlin:/ $ pm uninstall -k --user 0 com.mipay.wallet.in
+Success
+
+merlin:/ $ pm uninstall -k --user 0 com.google.android.apps.subscriptions.red
