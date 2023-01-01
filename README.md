@@ -1,4 +1,4 @@
-# Remove-inbuilt-app-from-Android
+# Remove inbuilt apps from Android
 This module contains instructions for removing bloatware and system apps installed by the mobile company.
 
 
@@ -37,4 +37,8 @@ This tutorial is now divided into three parts:
 
   Step 3 : Now type `adb shell`.
 
-  Step 4 : 
+  Step 4 : Now open the Package name viewer app in the mobile and slide to the app that you need to delete.
+  
+  Step 5 : Type the code `pm uninstall --user 0 ***` and click enter. _( Replace *** by the App Package name shown by the mobile app )_
+  
+  Step 6 : Wow ..! Your app has been removed from your mobile.
