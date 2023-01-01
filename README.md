@@ -5,11 +5,11 @@ This module contains instructions for removing bloatware and system apps install
 Here, I'll outline the procedures needed to get rid of unwanted system programmes and bloatware.
 This tutorial is now divided into three parts:
 
-                          1. Prerequisites in mobile phone,
+                          **_1. Prerequisites in mobile phone,
                           
                           2. Opening the command prompt in PC,
                           
-                          3. Removal of system apps.
+                          3. Removal of system apps._**
                           
                           
 ## 1. Prerequisites in Mobile Phone:
