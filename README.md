@@ -1,2 +1,5 @@
 # Remove-inbuilt-app-from-Android
-This module contains the steps to remove the bloatwares and the system apps provided by the mobile company.
+This module contains instructions for removing bloatware and system apps installed by the mobile company.
+
+
+Here, I'll outline the procedures needed to get rid of unwanted system programmes and bloatware.
