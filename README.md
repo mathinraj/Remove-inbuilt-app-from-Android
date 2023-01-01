@@ -9,7 +9,7 @@ This tutorial is now divided into three parts:
                           
                           2. Opening the command prompt in PC,
                           
-                          3. Removal of system apps._**
+                          3. Removal of system apps.
                           
                           
 ## 1. Prerequisites in Mobile Phone:
@@ -22,4 +22,11 @@ This tutorial is now divided into three parts:
  
  ## 2. Opening the Command Prompt in PC:
  
- Step 1 : 
+ Step 1 : Download this repository as a zip and extract in your local directory.
+ 
+ Step 2 : Now, run the `Command Prompt` in that extracted folder.
+ 
+ 
+## 3. Removal of System Apps :
+
+Step 1 : In the command prompt, 
